@@ -84,5 +84,5 @@ ppdet/version.py
 kernel_meta/
 
 # MAC
-*.DS_Store
+*.DS_Store7
 
